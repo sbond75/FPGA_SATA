@@ -1,0 +1,69 @@
+[submodule "litedram"]
+	path = litedram
+	url = https://github.com/enjoy-digital/litedram.git
+[submodule "liteeth"]
+	path = liteeth
+	url = https://github.com/enjoy-digital/liteeth.git
+[submodule "liteiclink"]
+	path = liteiclink
+	url = https://github.com/enjoy-digital/liteiclink.git
+[submodule "litejesd204b"]
+	path = litejesd204b
+	url = https://github.com/enjoy-digital/litejesd204b.git
+[submodule "litepcie"]
+	path = litepcie
+	url = https://github.com/enjoy-digital/litepcie.git
+[submodule "litesata"]
+	path = litesata
+	url = https://github.com/enjoy-digital/litesata.git
+[submodule "litescope"]
+	path = litescope
+	url = https://github.com/enjoy-digital/litescope.git
+[submodule "litesdcard"]
+	path = litesdcard
+	url = https://github.com/enjoy-digital/litesdcard.git
+[submodule "litex"]
+	path = litex
+	url = https://github.com/enjoy-digital/litex.git
+[submodule "litesata_axiom"]
+	path = litesata_axiom
+	url = https://github.com/enjoy-digital/litesata_axiom
+[submodule "litespi"]
+	path = litespi
+	url = https://github.com/litex-hub/litespi.git
+[submodule "litex-boards"]
+	path = litex-boards
+	url = https://github.com/litex-hub/litex-boards.git
+[submodule "pythondata-cpu-lm32"]
+	path = pythondata-cpu-lm32
+	url = https://github.com/litex-hub/pythondata-cpu-lm32.git
+[submodule "pythondata-cpu-mor1kx"]
+	path = pythondata-cpu-mor1kx
+	url = https://github.com/litex-hub/pythondata-cpu-mor1kx.git
+[submodule "pythondata-cpu-naxriscv"]
+	path = pythondata-cpu-naxriscv
+	url = https://github.com/litex-hub/pythondata-cpu-naxriscv.git
+[submodule "pythondata-cpu-serv"]
+	path = pythondata-cpu-serv
+	url = https://github.com/litex-hub/pythondata-cpu-serv.git
+[submodule "pythondata-cpu-vexriscv"]
+	path = pythondata-cpu-vexriscv
+	url = https://github.com/litex-hub/pythondata-cpu-vexriscv.git
+[submodule "pythondata-cpu-vexriscv-smp"]
+	path = pythondata-cpu-vexriscv-smp
+	url = https://github.com/litex-hub/pythondata-cpu-vexriscv-smp.git
+[submodule "pythondata-misc-tapcfg"]
+	path = pythondata-misc-tapcfg
+	url = https://github.com/litex-hub/pythondata-misc-tapcfg.git
+[submodule "pythondata-misc-usb_ohci"]
+	path = pythondata-misc-usb_ohci
+	url = https://github.com/litex-hub/pythondata-misc-usb_ohci.git
+[submodule "pythondata-software-compiler_rt"]
+	path = pythondata-software-compiler_rt
+	url = https://github.com/litex-hub/pythondata-software-compiler_rt.git
+[submodule "pythondata-software-picolibc"]
+	path = pythondata-software-picolibc
+	url = https://github.com/litex-hub/pythondata-software-picolibc.git
+[submodule "migen"]
+	path = migen
+	url = https://github.com/m-labs/migen.git
