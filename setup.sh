@@ -1,6 +1,8 @@
 #! /usr/bin/env nix-shell
 #! nix-shell -i bash
 
+set -x
+
 if [ -e ".venv_$(uname)" ]; then
     shouldSetup=0
 else
