@@ -19,7 +19,7 @@ if [ "$shouldSetup" == "1" ]; then
 	wget https://raw.githubusercontent.com/enjoy-digital/litex/master/litex_setup.py
     fi
     chmod +x litex_setup.py
-    sudo ./litex_setup.py init install
+    ./litex_setup.py init install
     
     git clone --recursive https://github.com/enjoy-digital/litesata_axiom
 fi
